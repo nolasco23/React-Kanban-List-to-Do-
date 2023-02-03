@@ -1,0 +1,61 @@
+.tasklist {
+  padding: 8px;
+  background-color: #282b10;
+  border-radius: 2px;
+}
+
+.tasklist .title {
+  padding: 4px;
+  font-weight: bold;
+  background-color: rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.tasklist .content {
+  padding: 16px 4px;
+  display: flex;
+  flex-direction: column;
+}
+
+.tasklist .content .empty-list {
+  text-align: center;
+  border: 1px dashed rgb(207, 226, 33);
+  border-radius: 4px;
+  padding: 4px;
+}
+
+.tasklist .btn {
+  margin-top: 8px;
+  padding: 8px;
+  display: flex;
+  justify-content: center;
+  background: none;
+  border: none;
+  border-radius: 3px;
+  color: white;
+  background: #ffa600;
+  transition: background-color 0.3s;
+  font-weight: bold;
+}
+
+.tasklist .btn:hover {
+  background-color: #ff0000;
+  cursor: pointer;
+}
+
+.tasklist .btn img {
+  width: 15px;
+  height: 15px;
+  margin-right: 4px;
+  color: white;
+}
+
+.Pendente {
+  background-color: #bb333a !important;
+}
+.Fazendo {
+  background-color: #2c8316 !important;
+}
+.Completa {
+  background-color: #4927e2 !important;
+}
