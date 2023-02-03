@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-Kanban-List-to-Do-/static/css/main.559dfaf4.css",
+    "main.js": "/React-Kanban-List-to-Do-/static/js/main.2260f196.js",
+    "static/js/787.c6a9a21d.chunk.js": "/React-Kanban-List-to-Do-/static/js/787.c6a9a21d.chunk.js",
+    "static/media/plus-svgrepo-com.svg": "/React-Kanban-List-to-Do-/static/media/plus-svgrepo-com.8c9a76d580b0de680240aa7de1491b89.svg",
+    "index.html": "/React-Kanban-List-to-Do-/index.html",
+    "main.559dfaf4.css.map": "/React-Kanban-List-to-Do-/static/css/main.559dfaf4.css.map",
+    "main.2260f196.js.map": "/React-Kanban-List-to-Do-/static/js/main.2260f196.js.map",
+    "787.c6a9a21d.chunk.js.map": "/React-Kanban-List-to-Do-/static/js/787.c6a9a21d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.559dfaf4.css",
+    "static/js/main.2260f196.js"
+  ]
+}
